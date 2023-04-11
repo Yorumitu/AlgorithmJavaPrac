@@ -33,7 +33,7 @@ import java.util.Scanner;
 样例输出
 8
 */
-public class test1 {
+public class AdjustingHeightOfDesk {
     //存入 n x (m * a)的数组
     //换位： x——> (x+1)%n
     //      y——>(y+2)%(m)
