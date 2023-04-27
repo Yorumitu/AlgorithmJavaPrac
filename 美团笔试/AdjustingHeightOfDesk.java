@@ -1,3 +1,5 @@
+package 美团笔试;
+
 import java.util.Scanner;
 
 /*
